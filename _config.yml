@@ -24,6 +24,7 @@ description: Google Summer of Code 2019
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
+  GSoC 2019: "gsoc19"
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
@@ -82,7 +83,7 @@ social-network-links:
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-#  instagram: deanat78
+  instagram: madhur276
 #  youtube: user/deanat78
 #  spotify: yourname
 #  telephone: +14159998888
@@ -95,6 +96,7 @@ share-links-active:
 #   twitter: true
   facebook: true
   google: false
+  instagram: true
 #   linkedin: true
 
 # How to display the link to the website in the footer
