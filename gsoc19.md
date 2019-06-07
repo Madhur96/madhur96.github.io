@@ -1,15 +1,21 @@
 ---
 layout: page
 title: Google Summer of Code 2019
+subtitle: Infinite scrolling using MAM and General Improvement.
+use-site-title: true
 ---
 
-Infinite scrolling using MAM and General Improvement for Poezio.
+#### *About Project*
 
-#### *Abstract*
-
-The existing Poezio client does not have modern chat features such as infinite scrolling of messages, a tab to display important messages, attaching a message with a past linked message, etc. 
 This project intends to improve the overall functionality of Poezio by implementing “Infinite scrolling using Message Archive Management (MAM)” and adding important features linked with it for general improvement.
-You can view my proposal [here](https://docs.google.com/document/d/1jqBL_IHtQ3HnBJTF2EDyugrxHQRRzJr-FE5lz-eNp28/edit?usp=sharing)
+
+Some of the features planned for this project along with infinite scrolling of messages are:
+- Implementation of scrollback command
+- Work on lastlog plugin
+- A tab to display important messages
+- Attaching a message with a past linked message
+
+My proposal can be viewed [here](https://docs.google.com/document/d/1jqBL_IHtQ3HnBJTF2EDyugrxHQRRzJr-FE5lz-eNp28/edit?usp=sharing)
 
 #### *Bonding period*
 
