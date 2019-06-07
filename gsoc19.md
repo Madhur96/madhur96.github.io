@@ -18,7 +18,7 @@ My proposal can be viewed [here](https://docs.google.com/document/d/1jqBL_IHtQ3H
 
 #### *Bonding period* 
 
-Apart from bonding with the community, I worked on "display of muc name along with JID in status bar".
+Apart from bonding with the community, I worked on the display of MUC name along with JID in the status bar".
 
 Related issue: [#3448](https://lab.louiz.org/poezio/poezio/issues/3448).
 
