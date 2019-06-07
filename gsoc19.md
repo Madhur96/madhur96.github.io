@@ -19,13 +19,17 @@ My proposal can be viewed [here](https://docs.google.com/document/d/1jqBL_IHtQ3H
 #### *Bonding period* 
 
 Apart from bonding with the community, I worked on "display of muc name along with JID in status bar".
-Related issue: [#3448](https://lab.louiz.org/poezio/poezio/issues/3448)
-Related merge request: [!30](https://lab.louiz.org/poezio/poezio/merge_requests/30)
+
+Related issue: [#3448](https://lab.louiz.org/poezio/poezio/issues/3448).
+
+Related merge request: [!30](https://lab.louiz.org/poezio/poezio/merge_requests/30).
 
 #### *Coding period*  
 
 * ##### *1st week*  
 
 I have implemented /scrollback feature and I am currently working on /lastlog plugin.
+
 The usage of /scrollback command is explained in the issue: [#3481](https://lab.louiz.org/poezio/poezio/issues/3481).
+
 Related merge request: [!31](https://lab.louiz.org/poezio/poezio/merge_requests/31).
