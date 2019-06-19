@@ -34,8 +34,9 @@ Scrollback basically scrolls back to the messages in the buffer.
 I tried to implement it the way Irssi uses it, so most of it's usage is the same as that explained by [Irssi](https://irssi.org/documentation/help/scrollback).
 
 This command would be helpful when someone wants to go a particular part of the conversation and roughly remember when the conversation took place (days-ago, date, time of the conversation). 
+The user can use "/sb" command with "goto" argument along with "linenumber" or "timestamp" or "+|-linecount", to go to that part of the conversation in the tab.
 
-The exact usage of /scrollback command is explained in the issue: [#3481](https://lab.louiz.org/poezio/poezio/issues/3481).
+The exact usage of "/scrollback" command is explained in the issue: [#3481](https://lab.louiz.org/poezio/poezio/issues/3481).
 
 Related merge request: [!31](https://lab.louiz.org/poezio/poezio/merge_requests/31).
 
@@ -47,7 +48,7 @@ Lastlog searches the current tab for messages with matching <keyword> in them an
 There was already some work done on this plugin by Maxime "pep." Buquet. So, I continued my implementation on the same work.
 
 This plugin can be helpful when someone remember some part of a past message but don't remember when the message happened or there are too many messages in the buffer to scrollback.
-Using /lastlog with the 'search keyword' as an argument, messages with that word in them can be found.
+Using "/lastlog" with the "searched keyword" as an argument, messages with that word in them can be found.
 
 Issue on which I worked: [#2950](https://lab.louiz.org/poezio/poezio/issues/2950).
 
