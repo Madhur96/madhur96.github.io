@@ -31,9 +31,9 @@ Related merge request: [!30](https://lab.louiz.org/poezio/poezio/merge_requests/
 I have implemented scrollback feature in my first week of GSoC.
 Scrollback basically scrolls back to the messages in the buffer.
 
-I tried to implement it the way Irssi uses it, so most of it's usage is the same as that explained by [Irssi](https://irssi.org/documentation/help/scrollback/).
+I tried to implement it the way Irssi uses it, so most of it's usage is the same as that explained by [Irssi](https://irssi.org/documentation/help/scrollback).
 
-This command would be helpful when someone wants to go a particular part of the conversation and roughly remember when the conversation took place (days-ago, date, time of the conversation). The user can then use /sb command with 'goto' argument along with 'linenumber' or 'timestamp' or '+|-linecount', to go to that part of the conversation in the tab.
+This command would be helpful when someone wants to go a particular part of the conversation and roughly remember when the conversation took place (days-ago, date, time of the conversation). The user can then use /sb command with "goto" argument along with "linenumber" or "timestamp" or "+|-linecount", to go to that part of the conversation in the tab.
 
 The exact usage of /scrollback command is explained in the issue: [#3481](https://lab.louiz.org/poezio/poezio/issues/3481).
 
