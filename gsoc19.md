@@ -43,7 +43,7 @@ Related merge request: [!31](https://lab.louiz.org/poezio/poezio/merge_requests/
 * ##### *2nd week*  
 
 I worked on lastlog plugin in my 2nd week of GSoC.
-Lastlog searches the current tab for messages with matching <keyword> in them and displays them all in the current tab.
+Lastlog searches the current tab for messages with matching "<keyword>" in them and displays them all in the current tab.
 
 There was already some work done on this plugin by Maxime "pep." Buquet. So, I continued my implementation on the same work.
 
@@ -58,11 +58,10 @@ Related merge request: [!35](https://lab.louiz.org/poezio/poezio/merge_requests/
 
 I planned to start work on implementation of message fetching using XEP-0313: Message Archive Management in my 3rd week of GSoC.
 But, there were few things I was stuck at and was not able to understand why I wasn't getting the complete archive.
-I tried querying for messages using /rawxml, then I found that I wasn't using XEP-0059: Result Set Management correctly.
-Thus, I was getting limited number of message. On changing that limit I was then able to get complete archive of messages for all type of chats.
+I tried querying for messages using /rawxml, then found that I wasn't using XEP-0059: Result Set Management correctly because of which I was getting limited number of message. On changing that limit I was then able to get complete archive of messages for all type of chats.
 
-I am currently working on [#3053](https://lab.louiz.org/poezio/poezio/issues/3053)
-The issue is about getting the current mam preferences, changing the preferences for a particular JID and getting complete archive of messages on a particular JID.
+I am currently working on [#3053](https://lab.louiz.org/poezio/poezio/issues/3053).
+The issue is about getting the current MAM preferences, changing the preferences for a particular JID and getting complete archive of messages on a particular JID.
 
-Once it is done, then implementing scrollback using MAM [#3052](https://lab.louiz.org/poezio/poezio/issues/3052)should be really easy.
+Once it is done, then implementing scrollback using MAM [#3052](https://lab.louiz.org/poezio/poezio/issues/3052) should be really easy.
 
