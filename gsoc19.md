@@ -26,6 +26,8 @@ Related merge request: [!30](https://lab.louiz.org/poezio/poezio/merge_requests/
 
 #### *Coding period*  
 
+### *Phase 1* 
+
 * ##### *1st week*  
 
 I have implemented the scrollback feature in my first week of GSoC.
@@ -64,3 +66,23 @@ I am currently working on [#3053](https://lab.louiz.org/poezio/poezio/issues/305
 The issue is about getting the current MAM preferences, changing the preferences for a particular JID and getting a complete archive of messages on a particular JID.
 
 Once it is done, then implementing scrollback using MAM [#3052](https://lab.louiz.org/poezio/poezio/issues/3052) should be really easy.
+
+* ##### *4th week*  
+
+This week, I worked on implementing mam_tab.
+The tab is basically to query for past messages, get MAM preferences and change the preferences for a particular JID.
+
+In the mam_tab, user can use /mam command along with the JID of the MUC and with the range of timestamp for which query of messages has to be made.
+
+Implementation of /prefs command is yet to be done, it would allow the user to view and set archive preferences for a particular JID. It's values can be: Default, Roster, Always.
+
+### *Phase 2* 
+
+* ##### *1st week*  
+
+I implemented an initial version of infinite scroll in the first week of second phase.
+What it currently does is that whenever user is at the top of the conversation and presses Page Up key, then it sends a query to get an archive of messages using MAM.
+Messages are then added at the top of the conversation.
+It's default limit is set to query 10 messages per request.
+
+There are few issues with it right now, I have planned to complete this work by the end of 2nd week.
