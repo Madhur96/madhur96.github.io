@@ -80,9 +80,26 @@ Implementation of /prefs command is yet to be done, it would allow the user to v
 
 * ##### *1st week*  
 
-I implemented an initial version of infinite scroll in the first week of second phase.
+I have implemented an initial version of infinite scroll in the first week of second phase.
+
 What it currently does is that whenever user is at the top of the conversation and presses Page Up key, then it sends a query to get an archive of messages using MAM.
+
 Messages are then added at the top of the conversation.
 It's default limit is set to query 10 messages per request.
 
 There are few issues with it right now, I have planned to complete this work by the end of 2nd week.
+
+* ##### *2nd week*
+
+This week I completed work on the infinite scroll, it is currently under testing and I am fixing whatever issues are coming in between.
+
+Related merge request: [!36](https://lab.louiz.org/poezio/poezio/merge_requests/36).
+
+I have also implemented /mam_prefs command in the mam_tab, the command shows the current MAM preferences in the mam_tab.
+
+Related merge requests: [!19](https://lab.louiz.org/poezio/slixmpp/merge_requests/19), [!37](https://lab.louiz.org/poezio/poezio/merge_requests/37)
+
+
+* ##### *3rd week*
+
+This week I fixed some issues related to infinite scroll and currently working on adding a command to set preferences in the mam_tab.
