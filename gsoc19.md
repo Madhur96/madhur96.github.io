@@ -103,3 +103,27 @@ Related merge requests: [!19](https://lab.louiz.org/poezio/slixmpp/merge_request
 * ##### *3rd week*
 
 This week I fixed some issues related to infinite scroll and currently working on adding a command to set preferences in the mam_tab.
+
+### *Phase 3* 
+
+* ##### *1st week*  
+
+Implementing Message Archive Management (MAM) was not that easy as I was thinking about it earlier. The closer I get to its completion, more issues start appearing with it.
+
+It is taking a bit more time than expected, but as per my proposal, the major part of my work is related to MAM and I want that to work really well.
+
+This week my work was mostly on the infinite scroll and mam tab, for that I made a few changes in Slixmpp also.
+
+Merge request related to Slixmpp: [!20](https://lab.louiz.org/poezio/slixmpp/merge_requests/20).
+
+For the infinite scroll, there is a single merge request I am working on since last month: [!36](https://lab.louiz.org/poezio/poezio/merge_requests/36).
+
+My this week's work for the infinite scroll can be seen with the commit messages: [e8332f51](e8332f51963efadada0136b12f4ca41cca9ea601), [e1461b4e](e1461b4e1559dbd137b6269a89a2d46646d097bd)
+
+The first one is a check for IqError and IqTimeout exceptions while doing mam and disco query, the second one is to stop querying messages again and again if no more messages are left in the archive ( Info message is also added for that ), it also aligns the timestamp of the MAM start/end info messages with the archived messages.
+
+Same is for the mam tab, there is another merge request I am working on for that: [!37](https://lab.louiz.org/poezio/poezio/merge_requests/37).
+
+My this week's work for the mam tab can be seen with the commit message: [331af1f5](331af1f50c415e86b12a2d47928383e0863641ae)
+
+It is the final version of getting and setting MAM preferences in that tab.
