@@ -131,7 +131,7 @@ It is the final version of getting and setting MAM preferences in that tab.
 * ##### *2nd week*
 
 Since only two weeks are left now, my plan for the same would be:
-- To get the current version of !36 merged so that I can get feedback from people using it and can rectify any mistake if it is there.
-- Next, complete anything left with !37 and get it merged.
-- Once we have a working version of both of them, then I will work on other improvisations I have discussed with my mentor.
-- If time permits, then I will take the issue related to the grouping of messages (3289)
+1. To get the current version of !36 merged so that I can get feedback from people using it and can rectify any mistake if it is there.
+2. Next, complete anything left with !37 and get it merged.
+3. Once we have a working version of both of them, then I will work on other improvisations I have discussed with my mentor.
+4. If time permits, then I will take the issue related to the grouping of messages (3289)
