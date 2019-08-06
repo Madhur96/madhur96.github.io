@@ -106,7 +106,7 @@ This week I fixed some issues related to infinite scroll and currently working o
 
 ### *Phase 3* 
 
-* ##### *1st week*  
+* ##### *1st week*
 
 Implementing Message Archive Management (MAM) was not that easy as I was thinking about it earlier. The closer I get to its completion, more issues start appearing with it.
 
@@ -127,3 +127,11 @@ Same is for the mam tab, there is another merge request I am working on for that
 My this week's work for the mam tab can be seen with the commit message: [331af1f5](331af1f50c415e86b12a2d47928383e0863641ae)
 
 It is the final version of getting and setting MAM preferences in that tab.
+
+* ##### *2nd week*
+
+Since only two weeks are left now, my plan for the same would be:
+- To get the current version of !36 merged so that I can get feedback from people using it and can rectify any mistake if it is there.
+- Next, complete anything left with !37 and get it merged.
+- Once we have a working version of both of them, then I will work on other improvisations I have discussed with my mentor.
+- If time permits, then I will take the issue related to the grouping of messages (3289)
