@@ -11,8 +11,6 @@ This project intends to improve the overall functionality of Poezio by implement
 Some of the features planned for this project along with infinite scrolling of messages are:
 - Implementation of scrollback command
 - Work on lastlog plugin
-- A tab to display important messages
-- Attaching a message with a past linked message, etc
 
 My proposal can be viewed [here](https://docs.google.com/document/d/1jqBL_IHtQ3HnBJTF2EDyugrxHQRRzJr-FE5lz-eNp28/edit?usp=sharing)
 
