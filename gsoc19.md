@@ -139,9 +139,3 @@ Since there's a unique stanza-id for each message, so I changed the query to sta
 Merge request related to Slixmpp: [!23](https://lab.louiz.org/poezio/slixmpp/merge_requests/23).
 
 My this week's work for the infinite scroll can be seen with the commit message: [5079efd9](https://lab.louiz.org/poezio/poezio/merge_requests/36/diffs?commit_id=5079efd91d0e970a51c8731f83ef9f5434504373)
-
-* ##### *3rd week*
-
-Since this week was the last one before the GSoC phase ends, so I worked on completing the work I committed for my GSoC.
-
-My this week's work for the infinite scroll can be seen with the commit messages: [8ccd592c](8ccd592ce91afa3807efb25f7791bfc4753a8f4a),[645e41fa](645e41fac71b733e8659ee3824928b897eb0dd8e),[509f303a](509f303a452374e1680b7ac1e86440f05b9a7be0),[7145d57a](7145d57a3b351dfe079830d88f439615b25b6b46),[2f50a67e](2f50a67e8c53a6d8b1dbf71a023a2d50495ee049),[ae64345a](ae64345a9893bc1498da5db6ab9bbb46b7e79f3f),[827a2c88](827a2c881603db01bd54a95de5b6ccd6489532d8)
