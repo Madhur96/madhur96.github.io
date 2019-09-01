@@ -116,13 +116,13 @@ Merge request related to Slixmpp: [!20](https://lab.louiz.org/poezio/slixmpp/mer
 
 For the infinite scroll, there is a single merge request I am working on since last month: [!36](https://lab.louiz.org/poezio/poezio/merge_requests/36).
 
-My this week's work for the infinite scroll can be seen with the commit messages: [e8332f51](https://lab.louiz.org/poezio/poezio/commit/e8332f51963efadada0136b12f4ca41cca9ea601), [e1461b4e](https://lab.louiz.org/poezio/poezio/commit/e1461b4e1559dbd137b6269a89a2d46646d097bd)
+My this week's work for the infinite scroll can be seen with the commit messages: [e8332f51](https://lab.louiz.org/poezio/poezio/merge_requests/36/diffs?commit_id=e8332f51963efadada0136b12f4ca41cca9ea601), [e1461b4e](https://lab.louiz.org/poezio/poezio/merge_requests/36/diffs?commit_id=e1461b4e1559dbd137b6269a89a2d46646d097bd)
 
 The first one is a check for IqError and IqTimeout exceptions while doing mam and disco query, the second one is to stop querying messages again and again if no more messages are left in the archive ( Info message is also added for that ), it also aligns the timestamp of the MAM start/end info messages with the archived messages.
 
 Same is for the mam tab, there is another merge request I am working on for that: [!37](https://lab.louiz.org/poezio/poezio/merge_requests/37).
 
-My this week's work for the mam tab can be seen with the commit message: [331af1f5](https://lab.louiz.org/poezio/poezio/commit/331af1f50c415e86b12a2d47928383e0863641ae)
+My this week's work for the mam tab can be seen with the commit message: [331af1f5](https://lab.louiz.org/poezio/poezio/merge_requests/36/diffs?commit_id=331af1f50c415e86b12a2d47928383e0863641ae)
 
 It is the final version of getting and setting MAM preferences in that tab.
 
@@ -138,4 +138,4 @@ Since there's a unique stanza-id for each message, so I changed the query to sta
 
 Merge request related to Slixmpp: [!23](https://lab.louiz.org/poezio/slixmpp/merge_requests/23).
 
-My this week's work for the infinite scroll can be seen with the commit message: [5079efd9](https://lab.louiz.org/poezio/poezio/commit/5079efd91d0e970a51c8731f83ef9f5434504373)
+My this week's work for the infinite scroll can be seen with the commit message: [5079efd9](https://lab.louiz.org/poezio/poezio/merge_requests/36/diffs?commit_id=5079efd91d0e970a51c8731f83ef9f5434504373)
