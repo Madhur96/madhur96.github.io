@@ -135,7 +135,14 @@ The problem I realized with it is that when there are multiple messages with the
 
 Since there's a unique stanza-id for each message, so I changed the query to stanza-id based.
 
-
 Merge request related to Slixmpp: [!23](https://lab.louiz.org/poezio/slixmpp/merge_requests/23).
 
 My this week's work for the infinite scroll can be seen with the commit message: [5079efd9](https://lab.louiz.org/poezio/poezio/merge_requests/36/diffs?commit_id=5079efd91d0e970a51c8731f83ef9f5434504373)
+
+* ##### *3nd week*
+
+Since this was the last week of my GSoC work. So I first completed the work which I had committed in my proposal.
+
+Finally, my code got merged!
+
+Then I worked on making my [work submission blog](https://gist.github.com/Madhur96/98cde10cd5f9d868b8dc22cb06b2e9c2#file-gsoc_19-md). It includes the links to all the code I have written for GSoC19.
