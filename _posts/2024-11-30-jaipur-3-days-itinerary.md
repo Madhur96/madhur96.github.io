@@ -5,7 +5,7 @@ subtitle: The perfect 3 days Jaipur itinerary
 cover-img: /assets/img/cover.png
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/cover.png
-tags: [travel, jaipur, rajasthan, itinerary]
+[comment] : (tags [travel, jaipur, rajasthan, itinerary])
 author: Madhurr Garg
 ---
 
