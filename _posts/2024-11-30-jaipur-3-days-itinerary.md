@@ -58,7 +58,7 @@ _Chokhi Dhani_: Head to this cultural village to experience authentic Rajasthani
 ### Suggestions
 1. Keep Hoodie - When travelling in Winters, it gets cold while returning from outskirts of Jaipur at night.
 2. Stay - I stayed at [airbnb](https://www.airbnb.co.in/rooms/949630240212661410). It's located at a very convenient place to expore the city. To save on airbnb taxes, you can get owner's contact from me.
-3. Commute - Rent scooty from: Royal Brothers/ Onn Bike/ Joy Rides (check the one nearest to your stay). Avoid cabs as it get crowded around the old city.
+3. Commute - Rent scooty from: Royal Brothers/ Onn Bike/ Joy Rides (check the one nearest to your stay). Avoid cabs as it gets crowded around the old city.
 
 This itinerary is ideal because:
 - Minimal Commute Time: It groups nearby attractions together for efficient exploration.
