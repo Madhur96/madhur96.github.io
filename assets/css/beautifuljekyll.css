@@ -574,8 +574,8 @@ footer .footer-custom-content {
   display: none;
 }
 .post-preview .post-image-small img {
-  max-width: 14rem;
-  max-height: 14rem;
+  max-width: 16rem;
+  max-height: 16rem;
 }
 @media (max-width: 500px) {
   .post-preview .post-image {
