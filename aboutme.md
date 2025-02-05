@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-[comment]:subtitle- Why you'd want to go on a date with me XD
+subtitle: Please remind me to update this XD
 ---
 
 ### My story
