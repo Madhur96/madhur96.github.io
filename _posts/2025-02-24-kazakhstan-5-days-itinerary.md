@@ -2,8 +2,8 @@
 layout: post
 title: Kazakhstan
 subtitle: How to explore Kazakhstan in 5 days?
-cover-img: /assets/img/kazakh-street.HEIC
-thumbnail-img: /assets/img/kazakh.HEIC
+cover-img: /assets/img/kazakh-street.jpg
+thumbnail-img: /assets/img/kazakh.jpg
 share-img: /assets/img/cover.png
 tags: [Kazakhstan, itinerary]
 author: Madhurr Garg
